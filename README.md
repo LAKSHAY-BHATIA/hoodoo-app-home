@@ -1,3 +1,11 @@
+# Hoodoo app home screen and login layout [REACT NATIVE]
+
+[![Watch the video](https://img.youtube.com/vi/eI_13i5oBNg/0.jpg)](https://youtu.be/eI_13i5oBNg)
+
+https://youtu.be/eI_13i5oBNg
+
+
+
 # Sample Snack app
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by clicking the **Run** button or use the simulator by clicking **Tap to Play**. When you're done, click **Save** and share the link!
